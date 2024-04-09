@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    text-align:center;
+    font-family:Quintessential;
+    font-size: 1.5em;
+}
+
+.top-container{
+    background-color:#DDF2FD;  
+}
+
+h1{
+    font-size: 70px;
+    width: 30%;
+    margin: 20px auto 0;
+    color:#66bfbf;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    margin-top: 50px;
+    position: relative;
+    left:200px;
+    margin-bottom: 10px;
+}
+
+span{
+    text-decoration: underline;
+}
+
+.myPICTURE{
+    height: 400px;
+    display: block;
+    margin:auto;
+    padding-bottom: 10px;
+}
+
+.hello, .mma, .coding, .CODINGicon, .MMAicon{
+    display:absolute;
+    margin-bottom: 0px;
+
+}
+
+.helloPIC{
+    height:25px;   
+}
+
+.instagramPIC{
+    height:25px;
+    position: relative;
+    top: 5px; 
+}
+
+.fbPIC{
+    height: 21px;
+}
+
+.CODINGimg, .MMAimg{
+    padding-bottom: 10px;
+    margin: auto;
+    width: 30%;
+    float: left;
+    margin-right: 30px ;
+}
+
+.bio{
+    font-size: 40px;
+    color:#66bfbf;
+    margin-top: 20px;
+}
+
+h3{
+    color:#11999E;
+    font-weight: normal;
+}
+
+h2{
+    color:#66bfbf;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto ;
+    text-align: left;
+    line-height: 2;
+}
+.MMAimg{
+    float: right;
+    margin-left: 30px;
+}
+
+.infoIMG{  
+    margin: auto 70px;
+    float: left;
+    display: inline-block;
+}
+
+.infos-divs{
+    display: inline-block;
+ 
+}
+
+
+
+
+
+
+
